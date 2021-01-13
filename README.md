@@ -1,17 +1,17 @@
-# Newsfeed-Components
+# Newsfeed-Components-----
 
 In this project we are going to be building a news feed reader. The goal is to have a collapsing menu, and expandable news articles. The styles and some of the HTML is already done for you.
 
-## Need to know
+## Need to know-----
 
 * Creating DOM elements with Javascript Functions
 * Element selection
 * Basic DOM manipulation
 * Events and event listeners
 
-### Set Up The Project With Git
+### Set Up The Project With Git-----
 
-**Follow these steps to set up and work on your project:**
+**Follow these steps to set up and work on your project:**-----
 
 * [ ] Create a forked copy of this project.
 * [ ] Add your team lead as collaborator on Github.
